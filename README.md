@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Rhenan, a web developer who loves learning and challenges. 💻
+I'm Rhenan, a web developer who loves learning and challenges.  💻
 
 Lately, I've been working on full stack projects as part of INCODE course I'm attending.
 
-☕ Based in Melbourne, Australia 🇦🇺
+☕  Based in Melbourne, Australia 🇦🇺
 
 <!--
 **rfolco/rfolco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
